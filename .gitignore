@@ -1,1 +1,4 @@
+*.iml
 /Hard.iml
+/out/
+/.idea/
